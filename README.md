@@ -18,7 +18,7 @@ The analysis includes event detection, forward-return analysis, comparison with 
 
 A significant fall is defined as:
 
-**Daily Return ≤ −2.0%**
+**Daily Return ≤ −3.0%**
 
 Daily return is calculated as:
 
